@@ -1,0 +1,4 @@
+include README.md
+recursive-include werner/templates *
+recursive-include werner/translations *
+recursive-include werner/static *
